@@ -40,6 +40,3 @@ Password: user
 <br>
 
 
-![Manage Events/News](https://imgur.com/g1MfJJy.png)
-![Manage Advertisements](https://imgur.com/hyUwDNL.png)
-![Maintenance](https://imgur.com/l8fPJ3J.png)
